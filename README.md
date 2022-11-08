@@ -18,4 +18,6 @@ The slope of the model is not zero, but is positive. This is because the coeffic
 
 This model does predict mpg of MechaCar prototypes effectively. The p-value of the model as a whole is 5.35e^-11, far below the p<.05 threshold for signifcance.
 
+### Summary Statistics on Suspension Coils
+
 ## Summary
